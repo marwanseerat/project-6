@@ -46,7 +46,6 @@
     </div>
     {{-- <!-- Carousel End --> --}}
 
-
     {{-- <!-- Facts Start --> --}}
     <div class="container-fluid facts py-5 pt-lg-0">
         <div class="container py-5 pt-lg-0">
@@ -55,7 +54,7 @@
                     <div class="bg-white shadow d-flex align-items-center h-100 p-4" style="min-height: 150px;">
                         <div class="d-flex">
                             <div class="flex-shrink-0 btn-lg-square bg-primary">
-                                <i class="fa fa-car text-white"></i><i class="fa-solid fa-bullseye-arrow text-white"></i>
+                                <i class="fas fa-bullseye text-white"></i><i class="fa-solid fa-bullseye-arrow text-white"></i>
                             </div>
                             <div class="ps-4">
                                 <h5>Mission  </h5>

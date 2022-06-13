@@ -73,7 +73,7 @@
 
                         <div class="d-flex justify-content-center">
                             
-                                <button type="submit" class="btn btn-secondary btn-lg btn-block text-body" style=" width: 35vw; color:white !important; ">
+                                <button type="submit" class="btn btn-secondary btn-lg btn-block text-body" style=" width: 35vw; color:hitew !important; ">
                                     {{ __('Register') }}
                                 </button>
                             
